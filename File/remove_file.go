@@ -11,5 +11,4 @@ func main() {
 		fmt.Println("文件删除失败")
 		return
 	}
-
 }

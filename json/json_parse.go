@@ -46,5 +46,4 @@ func main() {
 	fmt.Println(v.Mongo.MongoPoolLimit)
 	fmt.Println(v.Mongo.MongoCollection)
 	fmt.Printf("%v", *v)
-
 }
