@@ -1,1 +1,8 @@
 {"FirstName":"Kol","LastName":"Mikkelson","Address":[{"Type":"private","City":"ChangChun","Country":"China"},{"Type":"work","City":"Boom","Country":"China"}],"Remark":"none"}
+China"
+    }
+  ],
+  "FirstName": "Kol",
+  "LastName": "Mikkelson",
+  "Remark": "none"
+}
